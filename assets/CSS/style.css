@@ -207,7 +207,7 @@ a{
     }
 }
 
-@media(max-width:667px){
+@media(max-width:768px){
 
     .nav_list{
         margin-top: 1rem;
@@ -230,6 +230,11 @@ a{
     
     .greetings #yellow{
         color: var(--yellow-color);
+    }
+
+    .greetings .btn{
+        width: 10rem !important;
+        margin-top: -35rem !important;
     }
 
     .about h1{
@@ -281,6 +286,7 @@ a{
     overflow: hidden;
     transition: 1s all ease;
     font-family: 'Raleway', sans-serif;
+    margin-top: 10px;
 }
 
 .greetings .btn::before{
