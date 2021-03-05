@@ -200,7 +200,8 @@ a{
     }
 }
 
-@media(max-width: 768px){
+
+@media(max-width: 1111px){
     .greetings .btn{
         margin-top: -35rem;
     }
@@ -221,11 +222,6 @@ a{
     .greetings h1{
         font-size: 29px !important;
         margin-top: 9rem !important;
-    }
-
-    .greetings .btn{
-        margin-top: -35rem;
-        width: 8rem !important;
     }
 
     .greetings #red{
@@ -314,6 +310,7 @@ a{
     font-weight: bold;
     margin-top: 28rem;
     color: var(--second-color);
+    text-align: justify;
 }
 
 .about p{

@@ -39,7 +39,7 @@ var typed = new Typed('.animation', {
     ],
         typeSpeed: 60,
         backSpeed: 60,
-        backDelay: 5000,
+        backDelay: 6000,
         loop:true,
 });
 
