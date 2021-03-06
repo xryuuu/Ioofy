@@ -29,6 +29,7 @@ function colorLink(){
         this.classList.add('active')
     }
 }
+
 linkColor.forEach(l=> l.addEventListener('click', colorLink))
 
 var typed = new Typed('.animation', {
@@ -36,6 +37,7 @@ var typed = new Typed('.animation', {
     strings: [
         'Kids.', 
         'Students.',
+        'Engineer.'
     ],
         typeSpeed: 60,
         backSpeed: 60,
