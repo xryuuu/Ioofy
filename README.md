@@ -2,5 +2,5 @@
 - 👀 I’m interested in Learning some code
 - 💻 I’m currently learning C++ and Javascript
 - 💞️ I’m looking to collaborate on Any company
-- 📫 How to reach me > [Instagram](https://ioofy.github.io/reindex.github.io)
+- 📫 How to reach me > Instagram : [itsnikolai_](https://ioofy.github.io/reindex.github.io)
 
